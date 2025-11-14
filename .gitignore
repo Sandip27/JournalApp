@@ -32,3 +32,9 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Do not track pom.xml
+pom.xml
+# Do not track application.yml
+src/main/resources/application.yml
+
